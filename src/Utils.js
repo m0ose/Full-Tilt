@@ -30,11 +30,11 @@ function SensorCheck(sensorRootObj) {
 
 				}
 
-			}, 50);
+			}, 500);
 
 		};
 
-		runCheck(0);
+		runCheck(3);
 
 	});
 
